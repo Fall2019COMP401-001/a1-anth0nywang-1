@@ -132,7 +132,7 @@ public class A1Adept {
 		}
 
 
-		System.out.println("Largest: " + maxSpender + " ("+String.format("%.2f", maxCost)+")");
+		System.out.println("Biggest: " + maxSpender + " ("+String.format("%.2f", maxCost)+")");
 
 		// Calculating min 
 
